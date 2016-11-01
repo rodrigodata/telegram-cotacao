@@ -1,0 +1,16 @@
+{
+  "name": "cambiobot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Andrade (hello@rodrigoandrade.me)",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.15.2",
+    "node-telegram-bot-api": "^0.24.0",
+    "request-json": "^0.6.1"
+  }
+}
